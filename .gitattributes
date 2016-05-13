@@ -1,2 +1,2 @@
 secrets/passwords filter=git-crypt diff=git-crypt
-secrets/keygen  filter=git-crypt diff=git-crypt
+secrets/keygens filter=git-crypt diff=git-crypt
